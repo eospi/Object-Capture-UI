@@ -1,7 +1,7 @@
 # PhotoCatch by [Ethan Saadia](http://twitter.com/ethansaadia)
 ## A graphical interface for Object Capture on macOS, previously known as Object Capture UI.
 
-![Screenshot of the app](screenshot.png)
+![Screenshot of the app](screenshot.jpg)
 
 ## [Download PhotoCatch](https://bit.ly/3cPxgpZ)
 Beta version 0.1.0
