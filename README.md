@@ -1,9 +1,9 @@
-# Object-Capture-UI by [Ethan Saadia](http://twitter.com/ethansaadia)
+# PhotoCatch by [Ethan Saadia](http://twitter.com/ethansaadia)
 ## A graphical interface for Object Capture on macOS
 
 ![Screenshot of the app](screenshot.png)
 
-## [Download Object Capture UI](https://github.com/eospi/Object-Capture-UI/raw/main/Object%20Capture%20UI.zip)
+## [Download PhotoCatch](https://bit.ly/3cPxgpZ)
 Alpha version 0.0.1
 
 ## Features
