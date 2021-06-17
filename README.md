@@ -12,3 +12,8 @@ Beta version 0.1.0
 - Full control over all Object Capture parameters
 - Reconstruct a 3D model with one click
 - Save the model to a .usdz file
+
+# 🚨 Requirements
+### macOS 12 Monterey Beta
+- Apple Silicon Mac
+- OR Intel Mac with 16GB of RAM + AMD GPU with **4GB VRAM**
