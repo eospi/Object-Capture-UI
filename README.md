@@ -4,7 +4,7 @@
 ![Screenshot of the app](screenshot.png)
 
 ## [Download PhotoCatch](https://bit.ly/3cPxgpZ)
-Alpha version 0.0.1
+Beta version 0.1.0
 
 ## Features
 - Select a folder of images 
