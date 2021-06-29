@@ -3,7 +3,13 @@
 
 ![Screenshot of the app](screenshot.jpg)
 
-## [Download PhotoCatch](https://bit.ly/3hd8K3D)
+## [Download PhotoCatch](https://bit.ly/3qx9WTu)
+### Requires macOS 12 Monterey Beta 2
+Beta version 0.1.3
+
+#### [Download PhotoCatch Legacy](https://bit.ly/3hd8K3D)
+**Compatible with macOS 12 Monterey Beta 1**
+
 Beta version 0.1.2
 
 ## Features
